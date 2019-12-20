@@ -9,4 +9,4 @@ public class ArrayListExmp
 		s.add(20);
 		System.out.println(s);
 	}
-}//class
+}
